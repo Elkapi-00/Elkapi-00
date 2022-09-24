@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Elkapi-00
-- 👀 I’m interested in beging developer for software.
-- 🌱 I’m currently learning the fundamentals for pragrammation.
-- 💞️ I’m looking to collaborate on Amazon.
+- 👀 I’m interested in study Software Engineer.
+- 🌱 I’m currently learning HTML.
+- 💞️ I’m looking to collaborate on Google.
 - 📫 How to reach me? through my email diegojuarez@gmail.com
 
 <!---
